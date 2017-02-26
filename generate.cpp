@@ -1,3 +1,6 @@
+/* This is a simple code that generates random numbers and stores it in a file called "ip.txt".
+I created this file to generate inputs of large sizes. */
+
 #include <fstream>
 #include <time.h>
 #include <iostream>
