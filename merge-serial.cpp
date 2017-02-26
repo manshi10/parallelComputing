@@ -1,4 +1,4 @@
-//merge sort
+//merge sort - serial implemenation
 #include<iostream>
 //#include<bits/stdc++>
 using namespace std;
